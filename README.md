@@ -5,9 +5,9 @@
 <div align='center'>
 <br/>
 
-<h1>Hi, This is Jane</h1>
+<h1>Hi, This is interviewtes</h1>
 
-Jane uses a tailored Artificial Intelligence model to create natural-ish flowing mock interviews. It provides sample behavioral and technical questions, gives advice and constructive criticism, and highlights the user's strengths and weaknesses when it comes to the interviewing process in order to help them improve their likelihood of securing a good job.
+inter uses a tailored Artificial Intelligence model to create natural-ish flowing mock interviews. It provides sample behavioral and technical questions, gives advice and constructive criticism, and highlights the user's strengths and weaknesses when it comes to the interviewing process in order to help them improve their likelihood of securing a good job.
 
 ---
 
@@ -23,9 +23,4 @@ Jane uses a tailored Artificial Intelligence model to create natural-ish flowing
 
 </div>
 
-## Authors
 
-- **Seina Assadian**
-- **Joshua Castillo**
-- **Kledi Kleard**
-- **Alexandra Zana**
